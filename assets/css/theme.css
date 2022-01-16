@@ -1730,7 +1730,7 @@ a.fg-light:hover, a.fg-light:focus {
     .hero-carousel h5{
         font-size: 12px;
         margin-bottom: -2%;
-        color: pink;
+    
     }
     
     .btn{
@@ -1746,11 +1746,15 @@ a.fg-light:hover, a.fg-light:focus {
 .page-section {
   position: relative;
   display: block;
-  padding: 60px 0;
+  padding: 80px 0px;
 }
 
 .page-section p {
   color: #6D728B;
+}
+
+.Page-Spacing {
+    margin-top: 100x;
 }
 
 .subhead {
