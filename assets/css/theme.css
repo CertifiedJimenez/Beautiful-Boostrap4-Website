@@ -1730,11 +1730,12 @@ a.fg-light:hover, a.fg-light:focus {
     .hero-carousel h5{
         font-size: 15px;
         margin-bottom: -2%;
-        color: blue;
+        color: pink;
     }
     
     .btn{
         font-size: 15px;
+        min-width: 5px;
     }
 }
 
