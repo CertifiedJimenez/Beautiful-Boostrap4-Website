@@ -1722,13 +1722,13 @@ a.fg-light:hover, a.fg-light:focus {
 
 @media (max-width: 768px) {
   .hero-carousel h1 {
-    font-size: 28px;
+    font-size: 18px;
   }
   .hero-carousel .subhead {
-    font-size: 20px;
+    font-size: 18px;
   }
     .hero-carousel h5{
-        font-size: 15px;
+        font-size: 12px;
         margin-bottom: -2%;
         color: pink;
     }
