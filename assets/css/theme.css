@@ -1729,6 +1729,7 @@ a.fg-light:hover, a.fg-light:focus {
   }
     .hero-carousel h5{
         font-size: 15px;
+        color: yellow;
     }
     
     .btn{
